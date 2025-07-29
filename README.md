@@ -72,7 +72,7 @@ Weather condition icons are provided by [Lucide Icons](https://lucide.dev/icons/
 
 1. **Clone the Repository:**  
    ```sh
-   git clone [https://github.com/KocUniversity/project-3-weather-app-section-01-weatherdroid.git](https://github.com/KocUniversity/project-3-weather-app-section-01-weatherdroid.git)
+   git clone [https://github.com/r4yfon/weatherdroid.git](https://github.com/r4yfon/weatherdroid.git)
    ```
 
 2. **Open in Android Studio:**  
