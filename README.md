@@ -31,7 +31,7 @@ This is a Weather Application for Android OS. The app is built with **Kotlin** a
 
 ## Screenshots
 
-<img width="1187" height="2513" alt="Screenshot_20250730_165104" src="https://github.com/user-attachments/assets/8dd85e48-0924-4715-94d6-99feedf10461" />
+<img alt="Screenshot of weather app" height="400px" src="https://github.com/user-attachments/assets/8dd85e48-0924-4715-94d6-99feedf10461" />
 
 ---
 
